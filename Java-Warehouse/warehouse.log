@@ -1,0 +1,8 @@
+INFO main warehouse.ControlSystem - constructor
+ INFO [main] (ControlSystem.java:138) - constructor
+ INFO [main] (ControlSystem.java:138) - constructor
+ INFO [main] (Warehouse.java:69) - init done
+ INFO [main] (Warehouse.java:69) - init done
+ INFO [main] (ControlSystem.java:138) - constructor
+ INFO [main] (Warehouse.java:69) - init traversal_table.csv done
+ INFO [main] (Warehouse.java:69) - init initial.csv done

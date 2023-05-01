@@ -1,0 +1,47 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Your first Spring application</title>
+    <link rel="stylesheet" type="text/css" href="index.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <style>
+        body{text-align:center}
+    </style>
+    <script src="check.js"></script>
+</head>
+<body>
+<h1>書類提出</h1>
+
+    <form onsubmit="return validate_form()" action="/form_submit"  method="POST"   enctype="multipart/form-data"  >
+        <label for="day">日</label>
+        <input type="text" name="day" id = "day" maxlength="2" size="2" placeholder="day">
+        <label for="month">月</label>
+        <input type="text" name="month" id = "month" maxlength="2" size = "2" placeholder="month">
+        <label for="year">年</label>
+        <input type="text" name="year" id = "year" maxlength="4" size ="4" placeholder="year">
+        <br>
+        <label for="company name"> 会社名</label>
+        <input type="text" name="company name" id = "company name" maxlength="40" size ="25" style = "margin:20px" placeholder="company name">
+        <br>
+
+        <label for="file">アップロード</label>
+        <input  type="file" name="file" id = "file" accept="application/pdf">
+
+        <br>
+        <label for="category">種類</label>
+        <select name = "file type" id ="category">
+            <option value ="a">a</option>
+            <option value ="b">b</option>
+            <option value="c">c</option>
+            <option value="d">d</option>
+        </select>
+        <br>
+        <br>
+
+        <input type="submit" aria-label="large button group" value="完成">
+    </form>
+
+</form>
+</body>
+</html>

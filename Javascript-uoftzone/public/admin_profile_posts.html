@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+ 
+ <head>
+   <meta charset="utf-8">
+   <title>CSC309 team54 project admin profile:posts</title>
+   <link rel="stylesheet" type="text/css" href="admin_profile_posts.css">
+ </head>
+
+ <div id="wrapper">
+ <body>
+    <div id = "header">
+         <button class = "mainpageButton" type="button" onclick= 'window.location = "/admin_q"'><h1>UofT Zone</h1></button>
+         <div id = "logout">
+            <button class = "logoutButton" type="button" onclick='adminLogOut()'>
+               <div class="buttonIconContainer">
+                     <img class = "personIcon" src = "person.png" />
+               </div>
+               <div class = "logoutContent">
+                     <h4 > LOG OUT</h4>
+               </div>
+            </button>
+
+         </div>
+         <hr color = grey>
+   </div>
+   
+   <div id = "leftside">
+      <div id = "profilePic">
+         <img class = "profilePicture" src = "empty.png" />
+
+      </div>
+
+     <div id = "profileInf">
+         <p>Username:<span id = "adminname"></span></p>
+         <p>Email:<span id = "adminemail"></span></p>
+         <button class = "edit" type="button" onclick= 'window.location = "/admin/change_email"'>Edit Email</button>
+
+      </div>
+
+      <div id = "changePassword">
+         <button class = "change" type="button"onclick= 'window.location = "/admin/change_password"'>Change My Password</button>
+      </div>
+
+    </div>
+
+  <div id = "usersAndposts">
+       <div class = allUsers>
+          <button class = "allUsersButton" type="button"><strong >All Users</strong></button>
+      </div>
+
+
+      <div class = allPosts>
+          <button class = "allPostsButton" type="button"><strong>All Posts</strong></button>
+      </div>
+
+
+      <table id='usersTable'>
+            <tbody>
+                  <tr>
+                        <th>
+                              Post id
+                        </th>
+                        <th>
+                              Post Content
+                        </th>
+                        <th>
+                              # of Times Being Reported
+                        </th>
+                        <th>
+                            Remove
+                        </th>
+                  </tr>
+
+
+            <tbody>
+      </table>
+
+      <button class = "remove" type="button">REMOVE</button>
+  </div>
+
+
+
+  <br><br>
+
+
+  <script type="text/javascript" src="admin_profile.js"></script>
+
+ </body>
+ </div>
+
+ </html>

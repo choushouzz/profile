@@ -1,0 +1,109 @@
+Order SES Blue
+Order SES Red
+Order SE Grey
+Order SE Grey
+Picker Alice ready
+Order S Beige
+Order SES Green
+Order SE White
+Picker Alice pick 129a
+Order SE Silver
+Picker Alice pick 19b
+Order SE Tan
+Order S Green
+Order SES Graphite
+Order S White
+Picker Bob ready
+Picker Alice pick 11a
+Picker Alice pick 11b
+Picker Bob pick 5a
+Picker Alice pick 31
+Picker Bob pick 5b
+Order SES Grey
+Picker Bob pick 15a
+Picker Alice pick 32
+Picker Bob pick 15b
+Picker Bob pick 2a
+Picker Alice pick 31
+Order SE Blue
+Picker Alice pick 32
+Order S Gold
+Picker Alice to Marshaling
+Sequencer Sue ready
+Sequencer Sue sequences 19a
+Picker Bob pick 2b
+Sequencer Sue sequences 19b
+Sequencer Sue sequences 11a
+Picker Bob pick 63
+Sequencer Sue sequences 11b
+Sequencer Sue sequences 31
+Picker Alice ready
+Sequencer Sue sequences 32
+Sequencer Sue sequences 31
+Sequencer Sue sequences 32
+Loader Bill ready
+Picker Alice pick 47
+Sequencer Sue rescan
+Picker Alice pick 48
+Loader Bill rescan
+Loader Bill loads
+Order S Gold
+Picker Bob pick 64
+Picker Alice pick 13a
+Picker Bob to Marshaling
+Sequencer Sue ready
+Sequencer Sue sequences 5a
+Picker Alice pick 13b
+Sequencer Sue sequences 5b
+Sequencer Sue sequences 15a
+Sequencer Sue sequences 15b
+Picker Bob ready
+Sequencer Sue sequences 2a
+Sequencer Sue sequences 2b
+Picker Alice pick 57
+Sequencer Sue sequences 63
+Sequencer Sue sequences 64
+Loader Bill ready
+Picker Bob pick 33
+Picker Bob pick 34
+Picker Alice pick 58
+Picker Bob pick 18a
+Sequencer Sue rescan
+Picker Bob pick 18b
+Picker Alice pick 1a
+Loader Bill rescan
+Picker Alice pick 1b
+Loader Bill loads
+Picker Alice to Marshaling
+Sequencer Sue ready
+Picker Bob pick 37
+Picker Bob pick 38
+Replenisher Sam Replenishes A 0 1 0
+Sequencer Sue sequences 47
+Sequencer Sue sequences 48
+Picker Bob pick 37
+Sequencer Sue sequences 13a
+Sequencer Sue sequences 13b
+Sequencer Sue sequences 57
+Sequencer Sue sequences 58
+Sequencer Sue sequences 1a
+Sequencer Sue sequences 1b
+Sequencer Sue rescan
+Loader Bill ready
+Loader Bill rescan
+Picker Bob pick 38
+Loader Bill loads
+Picker Bob to Marshaling
+Sequencer Sue ready
+Sequencer Sue sequences 33
+Sequencer Sue sequences 34
+Sequencer Sue sequences 18a
+Sequencer Sue sequences 18b
+Sequencer Sue sequences 37
+Sequencer Sue sequences 38
+Sequencer Sue sequences 37
+Sequencer Sue sequences 38
+Sequencer Sue rescan
+Loader Bill ready
+Loader Bill rescan
+Loader Bill loads

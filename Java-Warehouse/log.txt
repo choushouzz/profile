@@ -1,0 +1,192 @@
+ INFO [main] (ControlSystem.java:138) - constructor
+ INFO [main] (Warehouse.java:69) - init traversal_table.csv done
+ INFO [main] (Warehouse.java:69) - init initial.csv done
+ INFO [main] (ControlSystem.java:138) - constructor
+ INFO [main] (Warehouse.java:69) - init traversal_table.csv done
+ INFO [main] (Warehouse.java:104) - init initial.csv done
+ INFO [main] (ControlSystem.java:138) - constructor
+ INFO [main] (Warehouse.java:73) - init traversal_table.csv done
+ INFO [main] (Warehouse.java:108) - init initial.csv done
+ INFO [main] (ControlSystem.java:138) - constructor
+ INFO [main] (Warehouse.java:73) - init traversal_table.csv done
+ INFO [main] (Warehouse.java:108) - init initial.csv done
+ INFO [main] (ControlSystem.java:138) - constructor
+ INFO [main] (Warehouse.java:73) - init traversal_table.csv done
+ INFO [main] (Warehouse.java:108) - init initial.csv done
+ INFO [main] (Loader.java:74) - rescan
+ INFO [main] (Sequencer.java:77) - rescan
+ INFO [main] (Loader.java:74) - rescan
+ INFO [main] (Loader.java:74) - rescan
+ INFO [main] (Sequencer.java:77) - rescan
+ INFO [main] (Loader.java:74) - rescan
+ INFO [main] (Sequencer.java:77) - rescan
+ INFO [main] (Loader.java:74) - rescan
+ INFO [main] (Loader.java:74) - rescan
+ INFO [main] (Loader.java:74) - rescan
+ INFO [main] (Sequencer.java:77) - rescan
+ INFO [main] (Loader.java:74) - rescan
+ INFO [main] (ControlSystem.java:138) - constructor
+ INFO [main] (Warehouse.java:73) - init traversal_table.csv done
+ INFO [main] (Warehouse.java:108) - init initial.csv done
+ INFO [main] (Loader.java:74) - loader rescan
+ INFO [main] (Sequencer.java:77) - squencer rescan
+ INFO [main] (Loader.java:74) - loader rescan
+ INFO [main] (Loader.java:74) - loader rescan
+ INFO [main] (Sequencer.java:77) - squencer rescan
+ INFO [main] (Loader.java:74) - loader rescan
+ INFO [main] (Sequencer.java:77) - squencer rescan
+ INFO [main] (Loader.java:74) - loader rescan
+ INFO [main] (Loader.java:74) - loader rescan
+ INFO [main] (Loader.java:74) - loader rescan
+ INFO [main] (Sequencer.java:77) - squencer rescan
+ INFO [main] (Loader.java:74) - loader rescan
+ INFO [main] (ControlSystem.java:138) - constructor
+ INFO [main] (Warehouse.java:73) - init traversal_table.csv done
+ INFO [main] (Warehouse.java:108) - init initial.csv done
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Sequencer.java:77) - squencer rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Sequencer.java:77) - squencer rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Sequencer.java:77) - squencer rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Sequencer.java:77) - squencer rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (ControlSystem.java:143) - constructor
+ INFO [main] (Warehouse.java:73) - init traversal_table.csv done
+ INFO [main] (Warehouse.java:108) - init initial.csv done
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Sequencer.java:77) - squencer rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Sequencer.java:77) - squencer rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Sequencer.java:77) - squencer rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Sequencer.java:77) - squencer rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (ControlSystem.java:143) - constructor
+ INFO [main] (Warehouse.java:73) - init traversal_table.csv done
+ INFO [main] (Warehouse.java:108) - init initial.csv done
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Sequencer.java:77) - squencer rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Sequencer.java:77) - squencer rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Sequencer.java:77) - squencer rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Sequencer.java:77) - squencer rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (ControlSystem.java:143) - constructor
+ INFO [main] (Warehouse.java:73) - init traversal_table.csv done
+ INFO [main] (Warehouse.java:108) - init initial.csv done
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Sequencer.java:77) - squencer rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Sequencer.java:77) - squencer rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Sequencer.java:77) - squencer rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Sequencer.java:77) - squencer rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (ControlSystem.java:143) - constructor
+ INFO [main] (Warehouse.java:73) - init traversal_table.csv done
+ INFO [main] (Warehouse.java:108) - init initial.csv done
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Sequencer.java:77) - squencer rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Sequencer.java:77) - squencer rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Sequencer.java:77) - squencer rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Sequencer.java:77) - squencer rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (ControlSystem.java:143) - constructor
+ INFO [main] (Warehouse.java:73) - init traversal_table.csv done
+ INFO [main] (Warehouse.java:108) - init initial.csv done
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Sequencer.java:77) - squencer rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Sequencer.java:77) - squencer rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Sequencer.java:77) - squencer rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Sequencer.java:77) - squencer rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (ControlSystem.java:143) - constructor
+ INFO [main] (Warehouse.java:73) - init traversal_table.csv done
+ INFO [main] (Warehouse.java:108) - init initial.csv done
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Sequencer.java:77) - squencer rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Sequencer.java:77) - squencer rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Sequencer.java:77) - squencer rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Sequencer.java:77) - squencer rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (ControlSystem.java:143) - constructor
+ INFO [main] (Warehouse.java:73) - init traversal_table.csv done
+ INFO [main] (Warehouse.java:108) - init initial.csv done
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Sequencer.java:77) - squencer rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Sequencer.java:77) - squencer rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Sequencer.java:77) - squencer rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Sequencer.java:77) - squencer rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (ControlSystem.java:143) - constructor
+ INFO [main] (Warehouse.java:73) - init traversal_table.csv done
+ INFO [main] (Warehouse.java:108) - init initial.csv done
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Sequencer.java:77) - squencer rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Sequencer.java:77) - squencer rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Sequencer.java:77) - squencer rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Sequencer.java:77) - squencer rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (ControlSystem.java:143) - constructor
+ INFO [main] (Warehouse.java:73) - init traversal_table.csv done
+ INFO [main] (Warehouse.java:108) - init initial.csv done
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Sequencer.java:77) - squencer rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Sequencer.java:77) - squencer rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Sequencer.java:77) - squencer rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Loader.java:72) - loader rescan
+ INFO [main] (Sequencer.java:77) - squencer rescan
+ INFO [main] (Loader.java:72) - loader rescan

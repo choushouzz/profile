@@ -1,0 +1,38 @@
+Instructions
+
+1.Run project from cmd
+
+Step1:Enter the directory of the warehouse which contains ControlSystem.java. Generally, type
+"cd group_0416/project/src/warehouse" into command line is ok if you clone repo group_0416 
+in default directory. 
+
+Step2:Type "javac -d . *.java" to compile the java files.
+
+Step3:Type "java warehouse.ControlSystem" to run the project.
+
+Step4: Find the results "orders.csv" and "final.csv" in warehouse folder.
+
+
+
+2.Run project from elipse
+
+Step1: Set "group_0416" as the workplace
+
+Step2: Create a new javaproject using "project"
+
+Step3: Run the Controlsystem.java in package warehouse.
+
+Step4:Find the results "orders.csv" and "final.csv" in project folder.
+
+
+3.Changed the events (in 16orders.txt)
+
+Step1: Create the event you want follow the format of event as before.
+
+Step2:Just run the project as said in instruction 1 and 2.
+
+notice:had better not change the file name of 16orders.txt or other csv files. If you changed
+any names of the files, please changed the input parameters in control.run in the main method
+of ControlSystem.java.
+
+

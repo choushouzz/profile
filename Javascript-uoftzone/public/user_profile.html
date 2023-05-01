@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>CSC309 team54 project admin profile:users</title>
+    <link rel="stylesheet" type="text/css" href="user_profile.css">
+</head>
+
+
+<body>
+<div id="wrapper">
+
+    <div id="header">
+        <button class="mainpageButton" type="button" onclick="window.location ='/logged_q'"><h1>UofT Zone</h1></button>
+        <div id="logout">
+            <button class="logoutButton" type="button" id="logOutButton">
+                <div class="buttonIconContainer">
+                    <img class="personIcon" src="./person.png"/>
+                </div>
+                <div class="logoutContent">
+                    <h4> LOG OUT</h4>
+                </div>
+            </button>
+
+        </div>
+        <hr color=grey>
+    </div>
+
+    <div id="leftside">
+        <div id="profilePic">
+            <img class="profilePicture" src="empty.png"/>
+
+        </div>
+
+        <div id="profileInf">
+            <p>Username:<span id = "username"></span></p>
+            <p>Email:<span id = "useremail"></span></p>
+            <button class="edit" type="button" onclick="window.location ='/user/change_email'">Edit Email</button>
+
+        </div>
+
+        <div id="changePassword">
+            <button class="change" type="button" onclick="window.location ='/user/change_password'">Change My Password
+            </button>
+        </div>
+
+    </div>
+
+    <div id="posts">
+
+        <div class=myposts>
+            <button class="MyPostsButton" type="button" disabled><strong>My Posts</strong></button>
+        </div>
+
+
+        <table id='postTable'>
+            <tbody>
+            <tr>
+                <th>
+                    Post content
+                </th>
+                <th>
+                    number of likes
+                </th>
+                <th>
+                    number of replies
+                </th>
+                <th>
+                    Remove
+                </th>
+            </tr>
+
+            <tbody>
+        </table>
+
+        <button class="remove" type="button">REMOVE</button>
+
+
+        <br><br>
+
+    </div>
+</div>
+<script type="text/javascript" src="user_profile.js"></script>
+
+</body>
+
+</html>

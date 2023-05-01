@@ -1,0 +1,8 @@
+﻿Member Name: Zhao Zhang  utoid:zhan2893
+Contribution: Create some simplest classes in the initial step,write most part of Loader,Pallet, Order and OrderMangager and Truck. Help modify the ControlSystem in last stage.Fix all checkstyle problems after writing the code.Fix one important bug at last.
+
+Member Name：Jacky Chen utorid: chenziq6
+Contribution: Implemented Worker class and its subclasses including Picker, Sequencer, Loader and Replenisher. Implemented some parts of the WarehouseSystem. Modified Print item. Added java doc for all of the classes. Fixed some flaws.
+
+Member Name：Chenyun Qiu utorid: qiuchen6
+Contribution: Implement classes including Warehouse, WarehousePicking and ControlSystem to allow the whole system works. Checked and fixed some flaws of other classes. Draw the UML diagram and polish it with final codes.

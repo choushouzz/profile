@@ -1,0 +1,128 @@
+
+
+#loginBox {
+	height: 100px;
+}
+
+#title {
+	float: left;
+	font-size: 50px;
+	font-weight: bold;
+	margin-left: 30px;
+	font-family: Comic Sans MS
+}
+#signupBox {
+	float: left;
+	margin-left: 650px;
+	font-size: 30px;
+	background-color: grey;
+	margin-top: 15px;
+}
+
+#signinBox {
+	margin-left: 50px;
+	float: left;
+	font-size: 30px;
+	background-color: grey;
+	margin-top: 15px;
+}
+
+.signicon {
+	width: 20px;
+	margin-left: 10px;
+
+}
+
+.signtext {
+	text-decoration: none;
+	color: white;
+	margin-left: 10px;
+	margin-right: 15px;
+	font-family: Arial;
+}
+
+.splitline {
+	border-bottom: 1px solid grey;
+}
+
+#postBox {
+	margin-left: 30px;
+	margin-top: 30px;
+	width: 1300px;
+	background-color: white;
+}
+
+.postHeaderBox {
+	margin-left: 30px;
+	margin-top: 5px;
+	height: 60px;
+	width: 1100px;
+	background-color: grey;
+}
+
+.postHeaderBox ul {
+	margin-left: -100px;
+}
+.postHeaderBox ul li{
+	display: inline-block;
+	font-size: 200%;
+	margin-left: 150px;
+	margin-top: 10px;
+
+}
+
+.postHeader {
+	color: white;
+	text-decoration: none;
+	font-family: Comic Sans MS
+}
+
+.postBodyBox {
+	margin-left: 30px;
+	background-color: #ECE3E3;
+	width: 1300px;
+}
+
+.post {
+	margin-left: 30px;
+	width: 900px;
+	margin-top: 10px;
+}
+
+.postSplit {
+	margin-top: 5px;
+	border-bottom: 1px solid grey;
+}
+
+.posterIconBox {
+	width: 100px;
+}
+
+.userName {
+	width: 800px;
+	float: left;
+}
+
+.posterIcon {
+	width: 60px;
+	height: 60px;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 30px;
+	border-radius: 50%;
+	float: left;
+}
+
+.postContent {
+	width: 800px;
+	float: left;
+}
+
+.feedback {
+	margin-left: 100px;
+}
+
+.feedbackButton {
+	margin-left: 40px;
+}
+

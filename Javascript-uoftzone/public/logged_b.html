@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="logged_b.css">
+    <title>User Dashboard</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+<!-- For the login and signup icon, as well as the page title -->
+
+<div id='loginBox'>
+		<span id='title'>
+			Uoft Zone
+		</span>
+
+    <!-- 		<span id='signupBox'>
+                <img class='signicon', src="signicon.jpg">
+                <a class="signtext" href="">SIGN UP</a>
+            </span>
+
+            <span id='signinBox'>
+                <img class='signicon', src="signicon.jpg">
+                <a class="signtext" href="">SIGN IN</a>
+            </span> -->
+
+    <span id="userSpan" class="profileBox">
+			<a onclick='window.location ="/index"'><img class='profileImage' src="signicon.jpg" id="userIcon"/></a>
+		</span>
+</div>
+<div class='splitline'></div>
+
+<!-- For the whole post section -->
+<div id='postBox'>
+    <!-- For the post header parts: Q&A, Book Exchange and Free Food -->
+    <div class='postHeaderBox'>
+        <ul>
+            <li><a class='postHeader' href="#" id="qTab">Q&A</a></li>
+            <li><a class='postHeader' href="#" id="bTab">Book Exchange</a></li>
+            <li><a class='postHeader' href="#" id="fTab">Free Food</a></li>
+        </ul>
+    </div>
+
+    <!-- For the post body parts -->
+    <div id="postBodyBox">
+
+        <!-- writing posts -->
+        <form id='writePost'>
+            <textarea id='textarea' rows="8" cols="150" placeholder="Write Your Post Here"></textarea>
+            <input type="submit" value="Submit">
+        </form>
+        <!-- first post -->
+        <div class="postSplit"></div>
+        <div class="post">
+            <div class='posterIconBox'>
+                <img class='posterIcon' , src="signicon.jpg">
+            </div>
+            <div class="userName">User</div>
+            <div class="postContent">
+                Fusce bibendum tincidunt vehicula. Nam tellus diam, vulputate sit amet venenatis nec, ultricies at
+                metus. Integer id efficitur est, eu ornare nunc.
+            </div>
+            <form class="feedback">
+                <a href=""><img class='unlike' , src="unlike.jpg"/></a>
+                <button class="feedbackButton">Reply</button>
+                <button class="feedbackButton">Report</button>
+            </form>
+        </div>
+
+        <!-- Another post -->
+        <div class="postSplit"></div>
+        <div class="post">
+            <div class='posterIconBox'>
+                <img class='posterIcon' , src="signicon.jpg">
+            </div>
+            <div class="userName">User</div>
+            <div class="postContent">
+                Vivamus ac nulla tempus, egestas nunc lobortis, viverra lacus.
+            </div>
+            <form class="feedback">
+                <a href=""><img class='unlike' , src="unlike.jpg"/></a>
+                <button class="feedbackButton">Reply</button>
+                <button class="feedbackButton">Report</button>
+            </form>
+        </div>
+
+        <div class="postSplit"></div>
+        <div class="post">
+            <div class='posterIconBox'>
+                <img class='posterIcon' , src="signicon.jpg">
+            </div>
+            <div class="userName">User</div>
+            <div class="postContent">
+                Fusce a libero ultricies, ullamcorper nisl eget, ultricies dolor.
+            </div>
+            <form class="feedback">
+                <a href=""><img class='unlike' , src="unlike.jpg"/></a>
+                <button class="feedbackButton">Reply</button>
+                <button class="feedbackButton">Report</button>
+            </form>
+        </div>
+
+    </div>
+</div>
+
+
+</div>
+<!-- <script type="text/javascript" src="logged_in.js"></script> -->
+<script type="text/javascript" src="logged_in.js"></script>
+</body>
+</html>

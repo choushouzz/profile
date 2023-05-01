@@ -1,0 +1,203 @@
+h1 {
+    margin-left:60px;
+    font-family:"Comic Sans MS","Arial Black";
+    color:darkgray;
+    display: inline-block;
+}
+
+#wrapper{
+    width:  1000px;
+    margin: 0 auto;
+}
+
+
+body{
+    font-family: "Comic Sans MS","Arial Black";
+}
+
+.mainpageButton{
+    background-color: white;
+    border:none;
+    outline: 0 none;
+    cursor: pointer;
+
+}
+
+#logout{
+    float:right;
+    margin-top:20px;
+    margin-right:50px;
+}
+
+.logoutButton{
+    background-color:black;
+    color:white;
+    outline: 0 none;
+    cursor: pointer;
+
+}
+
+.buttonIconContainer  {
+    color:black;
+    width:90px;
+    height:45px;
+    float:left;
+}
+#leftside{
+    display: inline-block;
+}
+.personIcon{
+    width:30px;
+    height:30px;
+    margin-top: 10px;
+    margin-left:20px;
+    float: left;
+}
+
+.logoutContent{
+    float: left;
+    margin-right:35px;
+    font:"sans-serif";
+
+}
+
+.profilePicture{
+    height:200px;
+    width: 200px    ;
+    padding-top:40px;
+    padding-left:70px;
+    display: inline-block;
+ 
+}
+
+#profileInf{
+    margin-top: 50px;
+    margin-left: 70px;
+    border:2px solid #A9A9A9;
+    width: 300px;
+}
+
+.edit{
+    text-align: center;
+    background-color:white;
+    width: 300px;
+    height:50px;
+    font-family: "Comic Sans MS","Arial Black";
+    outline: 0 none;
+    cursor: pointer;
+
+
+}
+
+
+#changePassword{
+    margin-top: 30px;
+    margin-left: 70px;
+    font-family: "Comic Sans MS","Arial Black";
+    width: 300px;
+}
+
+.change{
+    text-align: center;
+    background-color:white;
+    width: 300px;
+    height:50px;
+    font-family: "Comic Sans MS","Arial Black";
+    outline: 0 none;
+    cursor: pointer;
+
+
+}
+
+#posts{
+    float: right;
+    position: relative;
+    right:50px;
+    left: 70px;
+    bottom: 500px;
+}
+
+.allUsers{
+    display: inline-block;
+}
+
+.MyPostsButton{
+    font-family: "Comic Sans MS","Arial Black";
+    position: relative;
+    width: 250px;
+    height: 50px;
+    transform: perspective(5px) rotateX(1deg);
+    transform-origin: bottom left;
+    margin-left:50px;
+    margin-top:40px;
+    background: white;
+    border: 3px solid #A9A9A9;
+    background-color:  grey;
+    display: inline-block;
+    outline: 0 none;
+
+    
+
+
+}
+
+.MyPostsButton strong{
+    margin-right: 70px;
+    color: white;
+}
+
+.allPosts{
+    float: right;
+    position: relative;
+    right:180px;
+}
+
+
+
+
+table,td,th{
+    border-collapse: collapse;
+    border:2px solid #A9A9A9;
+    overflow: auto;
+}
+
+table{
+    max-height: 800px;
+    background-color:rgba(146, 146, 146, 0.2);
+    overflow:scroll;
+}
+
+.check{
+    height:15px;
+    width:10px;
+    background-color: white;
+    border:2px solid #A9A9A9;
+
+}
+
+#postTable{
+    margin-left: 50px;
+}
+
+
+td,th{
+    text-align :center;
+    min-width: 165px;
+    max-width: 165px;
+
+}
+
+.remove{
+    position: relative;
+    top:30px;
+    left:550px;
+    text-align: center;
+    background-color:rgba(167, 157, 157, 0.2);
+    width: 100px;
+    height:30px;
+    font-family: "Comic Sans MS","Arial Black";
+    outline: 0 none;
+
+}
+
+

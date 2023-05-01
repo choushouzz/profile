@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="sign_in.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+<!-- For the login and signup icon, as well as the page title -->
+<div id='loginBox'>
+    <a  onclick = 'window.location ="/index"' style="color: black;"><span id='title'>
+              Uoft Zone
+            </span></a>
+</div>
+<div class='splitline'></div>
+
+<!--For the sign in section-->
+<div id="signinContent">
+
+    <div id="signinTitle">Sign In</div>
+    <div id="signinForm">
+        <div class="form">
+            <input class="formInput" id="username" type="text" placeholder="Username">
+        </div>
+        <div class="form">
+            <input class="formInput" id="password" type="text" placeholder="Password">
+        </div>
+    </div>
+    <div id="buttons">
+        <button onclick="userLogin()" id="submitButton" class="button"><a id="submitLink" href="#">SUBMIT</a></button>
+        <button onclick = 'window.location ="/index"' class="button"><a>CANCEL</a></button>
+    </div>
+    <div><a id="notAMember" href="sign_up.html">Not a member yet?</a></div>
+
+</div>
+<script type="text/javascript" src="sign_in.js"></script>
+
+</body>
+</html>

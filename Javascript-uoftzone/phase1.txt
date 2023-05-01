@@ -1,0 +1,33 @@
+﻿Team 54 - Phase 1 
+Team members: 
+zhan2893 - Zhao Zhang
+yaolan4 - Lan Yao
+liwangch - Wangchong Li
+kulamoha - Abimanyu Kulamohan
+
+
+* How to use our web app
+1. Index.html is our initial page of UofT Zone (Inside main_sections folder). There are 3 tabs “Q&A”, “Free Food” and “Book Exchange” for you to scroll through posts related to those sections. You can switch to other sections by just clicking on the tabs at the top bar.
+2. At first you are not logged  in, you can only view posts in the main page. You can choose to either log in or register by click the “Sign in” or “Sign up” button at top right corner of the page. Login credentials are user/user and admin/admin, which you can log in as user or admin respectively.
+3. For sign in, if you credentials are not user/user or admin/admin then you can not sign in; for sign up, you can only sign up with user/user(as admin dont need to register like a user)
+4. After log in, as a user, besides viewing the posts, you can also write posts. Like a post,reply to a post or report  a post can also be done by clicking the button under a post . 
+After log in, an admin can only view posts in the main page.
+1. Clicking on the top right user icon will lead to user/admin profile. 
+
+
+* How an end user would use each of our features 
+1. For admin
+* As an admin, you can view all users’ or posts’ information  in profile page, and choose to switch to see either users or posts by clicking “all users” or “all posts”.
+* As an admin, you can remove any users or posts you dont want. You click the white box at the rightmost in a row then it will turn black. After select all the users/posts you don’t want you click the “remove” button then all posts/users will be removed from the page(and database in the future).
+* You can change your email by clicking the “Edit email” button and then input your old and new email and click submit (there is no restrictions for your new email now but will be some in the future, the old email will also be checked when connected to server).
+* You can change your password by clicking the “Change password” button and then input your old and new password and click submit (there is no restrictions for your new email now  but will be some in the future, the old password will also be checked when connected to server).
+
+
+1. For user
+* As an user, you can view all your posts and view information like the number of likes and replies you receive.
+* You can delete the posts you don’t like.
+* You can change your email as described above.
+* You can change your password as described above.
+* You can like a post by clicking the like button, and you can unlike it by just clicking the unlike button. 
+* You can report any posts you want. Right now we did not check if users are spamming the report button, but we will check this to make sure users can only report once. 
+* You could reply a post, or submit post in the corresponding parts.
